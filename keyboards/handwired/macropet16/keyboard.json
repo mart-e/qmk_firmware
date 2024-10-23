@@ -13,8 +13,8 @@
         "nkro": false
     },
     "matrix_pins": {
-        "cols": ["B13", "B14", "B15", "A8"],
-        "rows": ["B3", "B4", "B5", "B6"]
+        "rows": ["B13", "B14", "B15", "A8"],
+        "cols": ["B3", "B4", "B5", "B6"]
     },
     "url": "",
     "usb": {
